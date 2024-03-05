@@ -101,8 +101,7 @@ wget [https://wordpress.org/latest.tar.gz](url)
 
 **Download wordpress**
 
-`cd /tmp
-wget https://wordpress.org/latest.tar.gz`
+wget [https://wordpress.org/latest.tar.gz](url)
 
 **Unzip**
 
