@@ -55,6 +55,12 @@ wget [https://wordpress.org/latest.tar.gz](url)
 
 `sudo systemctl reload apache2`
 
+## OUTPUT
+
+![Screenshot (39)](https://github.com/saikeshavareddych/TECHPLEMENT/assets/147091730/bcde21e8-bd69-4a98-a356-cfd582b8683d)
+
+
+
 # MICROSERVICE ARCHITECTURE 
 
 ## SQL in One Instance
@@ -111,4 +117,8 @@ wget https://wordpress.org/latest.tar.gz`
 `sudo systemctl restart apache2`
 
 `sudo systemctl reload apache2`
+
+## OUTPUT
+
+
 ![image](https://github.com/saikeshavareddych/TECHPLEMENT/assets/147091730/f15520fd-31f8-4b29-b6ec-78a245d1bd76)
