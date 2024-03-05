@@ -1,10 +1,10 @@
-Deploy application in monolithic and microservices architecture.
+### Deploy application in monolithic and microservices architecture.
 
 For monolithic : 1 EC2 instance, deploy wordpress and MYSQL on the same instances.
 For microservices: 2 EC2 instances, 1 for wordpress and 1 for MYSQL.
 Configure the necessary security group for the instances.
 
-MONOLOTHIC ARCHITECTURE
+# MONOLOTHIC ARCHITECTURE
 
 Install Apache server on Ubuntu
 
@@ -30,9 +30,9 @@ Move wordpress folder to apache document root
 
 Command to restart/reload apache server
 
-MICROSERVICE ARCHITECTURE 
+# MICROSERVICE ARCHITECTURE 
 
-SQL in One Instance
+## SQL in One Instance
 
 Install MySQL Server
 
@@ -46,7 +46,7 @@ Create a database for wordpress
 
 Grant all privilges on the database 'wp' to the newly created user
 
-WORDPRESS in Another Instance
+## WORDPRESS in Another Instance
 
 Install Apache server
 
