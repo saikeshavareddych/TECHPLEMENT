@@ -1,4 +1,6 @@
-![image](https://github.com/saikeshavareddych/TECHPLEMENT/assets/147091730/f15520fd-31f8-4b29-b6ec-78a245d1bd76)### Deploy application in monolithic and microservices architecture.
+![image](https://github.com/saikeshavareddych/TECHPLEMENT/assets/147091730/f15520fd-31f8-4b29-b6ec-78a245d1bd76)
+
+### Deploy application in monolithic and microservices architecture.
 
 For monolithic : 1 EC2 instance, deploy wordpress and MYSQL on the same instances.
 For microservices: 2 EC2 instances, 1 for wordpress and 1 for MYSQL.
@@ -7,6 +9,8 @@ Configure the necessary security group for the instances.
 # MONOLOTHIC ARCHITECTURE
 
 **Install Apache server on Ubuntu**
+
+`sudo apt install apache2`
 
 **Install php runtime and php mysql connector**
 
