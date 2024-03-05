@@ -1,1 +1,3 @@
+#Install MySQL Server
 
+sudo apt install mysql-server 
